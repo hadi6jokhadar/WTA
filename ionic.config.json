@@ -1,0 +1,7 @@
+{
+  "name": "WTA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
